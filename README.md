@@ -1,6 +1,7 @@
 # UM hackthon 2025 
 Team name: 502 bad gateway
 Domain 3 Mex Assistant
+
 Figma link:
 https://www.figma.com/proto/iPFUKFVl8i3o33gZ85bbm9/MEX-Assistant?node-id=12-5&t=H0ZU9sYFiZcubIlq-1
 Presentation link:
